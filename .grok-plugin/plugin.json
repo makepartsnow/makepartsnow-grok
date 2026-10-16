@@ -1,0 +1,15 @@
+{
+  "name": "make-parts-now",
+  "version": "1.0.0",
+  "description": "3D printing and CNC machining quotes in Grok Build via the hosted Make Parts Now MCP server at makepartsnow.com: instant price and ship date for custom parts from your CAD file (STL, STEP, 3MF, OBJ) in SLS nylon, FDM plastic, aluminum or brass, made in the US, then a checkout link to order. No account needed to quote.",
+  "author": {
+    "name": "Make Parts Now",
+    "email": "orders@makepartsnow.com",
+    "url": "https://makepartsnow.com"
+  },
+  "homepage": "https://makepartsnow.com/developers#ai-assistants",
+  "repository": "https://github.com/makepartsnow/makepartsnow-grok",
+  "license": "MIT",
+  "keywords": ["make parts now", "makepartsnow", "makepartsnow.com", "make parts now quote", "make parts now order"],
+  "logo": "assets/logo.png"
+}
